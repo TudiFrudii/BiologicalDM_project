@@ -1,0 +1,44 @@
+---
+title: "Similarity using WGCNA"
+author: "Stefano Cretti"
+output:
+  html_notebook:
+    code_folding: none
+    df_print: paged
+    theme: readable
+    toc: yes
+    toc_float: yes
+---
+
+## Loading packages
+Store package names in a vectors for ease of access and to load them easily 
+```{r, message=FALSE, warning=FALSE}
+PACKAGES <- c(
+  "tidyverse",      # To make data handling easier
+  "WGCNA"           # To perform WGCNA
+)
+
+invisible(lapply(PACKAGES, library, character.only = TRUE))
+```
+
+## Transformations
+As per package requirements, samples are on the rows, genes are on the columns
+```{r}
+raw_counts <- read.csv("filtered_dataset.csv", row.names="gene_id") %>%
+              t()
+list_sno <- as.list(read.csv("exp_snorna.txt", header = FALSE)$V1)
+```
+
+Create similarity matrix
+```{r}
+sim_mat <- adjacency(raw_counts)
+```
+
+```{r}
+filt_sim_mat <- subset(sim_mat, rownames(sim_mat) %in% list_sno)
+```
+
+Save similarity matrix
+```{r}
+write.csv(filt_sim_mat, file="similarity_mat.csv", quote=FALSE)
+```

@@ -1,0 +1,78 @@
+---
+title: "Over Representation Analysis"
+author: "Stefano Cretti"
+output:
+  html_notebook:
+    code_folding: none
+    df_print: paged
+    theme: readable
+    toc: yes
+    toc_float: yes
+---
+
+Adapted from
+https://alexslemonade.github.io/refinebio-examples/03-rnaseq/pathway-analysis_rnaseq_01_ora.html
+
+
+# Preparatory steps
+
+## Loading packages
+Store package names in a vectors for ease of access and to load them easily 
+```{r, message=FALSE, warning=FALSE}
+PACKAGES <- c(
+  "clusterProfiler", # To perform cluster analysis
+  "tidyverse"        # To make data handling easier
+)
+
+invisible(lapply(PACKAGES, library, character.only = TRUE))
+```
+
+Print current system info, R and packages versions (for reproducibility) 
+```{r}
+sessionInfo()
+```
+
+## Define paths
+```{r}
+INPUT_FOLDER = "ORA_input"
+bkg_file = "reference.tsv"
+```
+
+```{r}
+for (fold in list.dirs(INPUT_FOLDER)){
+  
+  if (fold == INPUT_FOLDER) {next}
+  
+  bkg_list <- read.table(paste(fold, bkg_file, sep="/"), header=FALSE, sep="\t")
+  colnames(bkg_list) = c("go_term", "ens_id")
+  
+  for (file in list.files(fold)) {
+    
+    if (file == bkg_file) {next}
+    int_list <- read.table(paste(fold, file, sep="/"), header=FALSE, sep="\t")
+    colnames(int_list) = c("ens_id")
+    
+    go_ora_results <- enricher(
+      gene = int_list[["ens_id"]], # List of genes of interest
+      pvalueCutoff = 0.1, # Adj p-val cutoff
+      pAdjustMethod = "BH", # Multiple testing correction
+      TERM2GENE = bkg_list
+      )
+    
+    go_result_df <- data.frame(go_ora_results@result) %>%
+                dplyr::filter(p.adjust < 0.1)
+    
+    enrich_plot <- enrichplot::dotplot(
+                       go_ora_results,
+                       font.size = 12
+                                       )
+    svg(paste(file,".svg"))
+    plot(enrich_plot)
+    dev.off()
+  }
+}
+```
+
+
+
+

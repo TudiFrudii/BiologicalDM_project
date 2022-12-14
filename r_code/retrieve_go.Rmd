@@ -1,0 +1,76 @@
+---
+title: "Retrieve GO annotation"
+author: "Stefano Cretti"
+output:
+  html_notebook:
+    code_folding: none
+    df_print: paged
+    theme: readable
+    toc: yes
+    toc_float: yes
+---
+
+https://bioconductor.org/packages/release/bioc/vignettes/biomaRt/inst/doc/accessing_ensembl.html#annotate-a-set-of-entrezgene-identifiers-with-go-annotation
+
+## Loading packages
+
+Store package names in a vectors for ease of access and to load them easily 
+```{r, message=FALSE, warning=FALSE}
+PACKAGES <- c(
+  "biomaRt",         # To retrieve go terms
+  "GO.db",           # To retrieve go meaning
+  "tidyverse"        # To make data handling easier
+)
+
+invisible(lapply(PACKAGES, library, character.only = TRUE))
+```
+
+Define paths
+```{r}
+IN_FILE = "total_snodb_host.txt"
+OUT_FILE = "total_go_annot.tsv"
+```
+
+## Process
+
+Load database
+```{r}
+ensembl <- useEnsembl(biomart = "genes", dataset = "hsapiens_gene_ensembl")
+```
+
+Load lists
+```{r}
+background_list <- read.delim(IN_FILE, header=FALSE)
+```
+
+Retrieve go annotation
+```{r}
+go_id <- getBM(attributes = c('ensembl_gene_id', 'go_id'), 
+               filters = 'ensembl_gene_id', 
+               values = unique(background_list), 
+               mart = ensembl) %>%
+               .[,c(2,1)] %>%
+               .[!.$go_id=="", ]
+```
+
+Retrieve go meaning
+```{r}
+full_go <- toTable(GOTERM) %>% 
+           select(-1) %>%  # Remove duplicate column at start
+           .[!duplicated(.$go_id),]  # Only keep first synonym of go term
+```
+
+Merging go meaning
+```{r}
+merged_go <- left_join(go_id, full_go, by="go_id")
+             
+merged_go$go_id <- paste(merged_go$go_id, merged_go$Term, sep= " > ")
+merged_go <- select(merged_go,
+                    -c("Ontology","Definition","Synonym","Secondary","Term"))
+```
+
+Save output
+```{r}
+write.table(merged_go, OUT_FILE, quote = FALSE, row.names = FALSE, sep="\t")
+```
+

@@ -1,0 +1,75 @@
+---
+title: "3D PCA script"
+author: "Stefano Cretti"
+output:
+  html_notebook:
+    code_folding: none
+    df_print: paged
+    theme: readable
+    toc: yes
+    toc_float: yes
+---
+
+## Loading packages
+Store package names in a vectors for ease of access and to load them easily 
+```{r, message=FALSE, warning=FALSE}
+PACKAGES <- c(
+  "pca3d",          # To visualize PCA in 3 dimensions
+  "tidyverse",      # To make data handling easier
+)
+
+invisible(lapply(PACKAGES, library, character.only = TRUE))
+```
+
+Print current system info, R and packages versions (for reproducibility) 
+```{r}
+sessionInfo()
+```
+
+```{r}
+# r: genes, c: samples
+counts_raw <- read.csv("filtered_dataset.csv")
+sample_lab <- c(
+  "Testis", "Testis", "Testis",
+  "Skeletal muscle", "Skeletal muscle", "Skeletal muscle",
+  "Liver", "Liver", "Liver",
+  "Brain", "Brain", "Brain",
+  "Breast", "Breast", "Breast",
+  "Prostate", "Prostate", "Prostate",
+  "Ovary", "Ovary", "Ovary"
+  )
+```
+
+
+## Principal component analysis 
+Transpose matrix and perform PCA
+
+```{r}
+reduc <- counts_raw %>%
+         select(-gene_id) %>%  # You might have to remove this
+         t()
+
+reduc_info_tissue <- sample_lab %>%
+                     as.factor()
+```
+
+```{r}
+res_pca <- prcomp(reduc)
+# res_pca <- prcomp(reduc, scale. = TRUE)  # Try this one too
+```
+
+Save table of dimension contribution
+```{r}
+eig_PCA <- get_eig(res_pca)
+```
+
+Display and save Scree plot 
+```{r}
+fviz_eig(res_pca)
+```
+
+Plot 3d PCA
+```{r}
+pca3d(res_pca, group = reduc_info_tissue)
+```
+
