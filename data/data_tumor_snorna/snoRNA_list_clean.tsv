@@ -1,0 +1,242 @@
+ensembl_id	snoRNAs	Expression_level	Cancer	Bladder	Brain	Breast_aggressive	Breast_normal	Cervical	Colon	Gallbladder	Gastric	Hepatocellular	Leukemia	Lung	Myeloma	Osteosarcoma	Ovarian	Prostate	Renal	Reference
+	SNORA1	Increased	BCBM, BRCA																	https://pubmed.ncbi.nlm.nih.gov/29287594/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORA10/ACA10	Increased	BCBM, GC, BRCA																	https://pubmed.ncbi.nlm.nih.gov/29287594/ https://pubmed.ncbi.nlm.nih.gov/31552164/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORA11	Increased	HCC, TNBC, Ameloblastoma, Sarcoma																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9524901/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8021934/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7541128/#cam43361-sup-0007
+	SNORA12	Decreased	HCC, CACX																	https://www.sciencedirect.com/science/article/pii/S0888754318306682?via%3Dihub https://www.sciencedirect.com/science/article/pii/S0888754318306682?via%3Dihub
+	SNORA13/ACA13	Increased	OS																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695086/
+	SNORA15/ACA15A	Increased	CRC																	https://pubmed.ncbi.nlm.nih.gov/28110922/
+	SNORA16	Increased	ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/
+	SNORA16A	Increased	Larynx, BRCA																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORA16B	Increased	HCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9524901/
+	SNORA17A	Increased 	UM																	https://pubmed.ncbi.nlm.nih.gov/30569172/
+	SNORA18	Increased	ccRCC, Pancreas																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7011154/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6968780/
+	SNORA18L5	Increased	HCC																	https://pubmed.ncbi.nlm.nih.gov/29702115/
+	SNORA2	Decreased	ccRCC, Sarcoma																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7541128/#cam43361-sup-0007
+	SNORA21/ACA21	Increased	CRC, TNBC, LC, NSCLC, GBC																	https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub https://pubmed.ncbi.nlm.nih.gov/31052265/ https://pubmed.ncbi.nlm.nih.gov/31401397/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5552212/
+	SNORA22	Increased	BCBM, BRCA, LGG, Pancreas																	https://pubmed.ncbi.nlm.nih.gov/29287594/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8215672/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6968780/
+	SNORA23/ACA23	Increased	PDAC																	https://pubmed.ncbi.nlm.nih.gov/28390868/
+	SNORA24	Increased/Decreased	BCBM, HCC, BRCA																	https://pubmed.ncbi.nlm.nih.gov/29287594/ https://pubmed.ncbi.nlm.nih.gov/31478838/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORA26		Sarcoma																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7541128/#cam43361-sup-0007
+	SNORA2A	Increased	BCBM, BRCA																	https://pubmed.ncbi.nlm.nih.gov/29287594/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORA3	Increased	NSCLC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8508363/
+	SNORA30	Increased	BCBM, BRCA																	https://pubmed.ncbi.nlm.nih.gov/29287594/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORA31/ACA31/SNORA31A	Decreased	CLL, LGG																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8215672/
+	SNORA33	Decreased	NSCLC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461500/
+	SNORA37	Increased	BCBM, BRCA																	https://pubmed.ncbi.nlm.nih.gov/29287594/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORA38/ACA38	Increased	OS, BRCA, BCBM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9500313/ https://pubmed.ncbi.nlm.nih.gov/29287594/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695086/
+	SNORA38B	Increased	NSCLC																	https://pubmed.ncbi.nlm.nih.gov/35577506/
+	SNORA40	Decreased	LGG																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8215672/
+	SNORA41/ACA41A	Increased	CRC																	https://pubmed.ncbi.nlm.nih.gov/28110922/
+	SNORA42/MBI-43	Increased	NSCLC, CRC, ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4966663/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4029979/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7011154/
+	SNORA43	Increased	NSCLC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8508363/
+	SNORA44/ACA44	Increase	BRCA																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3832415/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORA46/ACA46	Increased	OS																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695086/
+	SNORA47/HBI-115	Increased	HCC, NSCLC, LC																	https://pubmed.ncbi.nlm.nih.gov/28466632/ https://pubmed.ncbi.nlm.nih.gov/25159866/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7140444/
+	SNORA48		TNBC																	https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORA50C/ACA62/SNORA76/SNORA76C	Increased	NB																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9276775/
+	SNORA52	Increased/Decreased	BCBM, HCC																	https://pubmed.ncbi.nlm.nih.gov/29287594/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8203349/
+	SNORA53	Increased	ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/
+	SNORA55/ACA55	Increased	PCa																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5423162/
+	SNORA56	Increased 	Multiple*																	https://pubmed.ncbi.nlm.nih.gov/29141226/
+	SNORA58	Increased	GC																	https://pubmed.ncbi.nlm.nih.gov/31552164/
+	SNORA59B	Increased	HCC, ccRCC, LGG																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9524901/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8215672/
+	SNORA5A/ACA5/ACA5ABC	Increased	MM, LUAD																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/ https://www.aimspress.com/article/10.3934/mbe.2021389
+	SNORA5C/ACA5C	Increased	CC																	https://pubmed.ncbi.nlm.nih.gov/35586811/
+	SNORA6	Increased/Decreased	LC, CC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8615616/
+	SNORA61	Increased 	BRCA																	https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORA62/E2/E2-1/RNE2/RNU108/SNORA62L2/SNORA62L3	Decreased/Increased	CLL, GC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/ https://pubmed.ncbi.nlm.nih.gov/31552164/
+	SNORA63	Increased	LGG																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8215672/
+	SNORA64	Increased	PCa																	https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wrna.1266?saml_referrer
+	SNORA65/U65/RNU6	Increased	NSCLC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9098889/
+	SNORA66/U66	Increased 	GC																	https://pubmed.ncbi.nlm.nih.gov/31552164/
+	SNORA68	Increased	NSCLC, TNBC																	https://pubmed.ncbi.nlm.nih.gov/25159866/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORA68/RNU68/SNORA68A/U68	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORA7	Increased	ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/
+	SNORA70/DXS648E/RNU70/U70	Increased	OS, GC, LUAD																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695086/ https://pubmed.ncbi.nlm.nih.gov/31552164/ https://www.aimspress.com/article/10.3934/mbe.2021389
+	SNORA70C/U70C  	Decreased	CLL																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORA70E/U70E  	Increased	OC																	https://pubmed.ncbi.nlm.nih.gov/36056690/
+	SNORA70F/U70F  	Decreased	CLL, ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/
+	SNORA71A	Increased	NSCLC, BCBM, ccRCC, HCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9098889/ https://pubmed.ncbi.nlm.nih.gov/29287594/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7559222/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7537701/
+	SNORA71B/RNU71B/U71b	Increased	BRCA, BCBM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9496948/ https://pubmed.ncbi.nlm.nih.gov/29287594/
+	SNORA71C	Increased	BCBM, ccRCC, Sarcoma																	https://pubmed.ncbi.nlm.nih.gov/29287594/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7541128/#cam43361-sup-0007
+	SNORA71C/U71c  	Decreased	CLL																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORA71D	Increased	Multiple*																	https://pubmed.ncbi.nlm.nih.gov/29141226/
+	SNORA72	Increased	LGG, OC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8215672/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7669759/
+	SNORA73A/U17a/E1/E1-7/E1b/U17A/RNE1/RNU17A 	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORA73B	Increased	LC, Sarcoma																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7140444/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7541128/#cam43361-sup-0007
+	SNORA74A	Increased	PCa																	https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wrna.1266?saml_referrer
+	SNORA74B/U19-2	Decreased/Increased	GBC, TNBC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5386738/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8699045/
+	SNORA78	Increased	NSCLC																	https://pubmed.ncbi.nlm.nih.gov/25159866/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7140444/
+	SNORA79/ACA65A	Increased	OS																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695086/
+	SNORA7A/ACA7 	Increased	NSCLC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9098889/
+	SNORA7B/ACA7B  	Increased	NSCLC, BRCA, PCa																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9098889/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORA80B	Decreased	ccRCC, LGG																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8215672/
+	SNORA80E	Increased	NSCLC, CRC, PCa, ESCC, HCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9098889/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7880613/ https://pubmed.ncbi.nlm.nih.gov/34182081/ https://pubmed.ncbi.nlm.nih.gov/34759267/
+	SNORA9	Increased	BCBM, CRC, GC, LC, HCC, BRCA																	https://pubmed.ncbi.nlm.nih.gov/29287594/ https://pubmed.ncbi.nlm.nih.gov/31308739/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORD10/mgU6-77	Increased	OS, GC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695086/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD101		Sarcoma																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7541128/#cam43361-sup-0007
+	SNORD104	Increased	ccRCC, LUAD																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/ https://www.aimspress.com/article/10.3934/mbe.2021389
+	SNORD105	Increased	HCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9454744/
+	SNORD105B	Increased	GC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD107/HBII-436	Increased	BCP-ALL																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD109A/HBII-438A/HBII-438a	Increased	BCP-ALL																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD110	Decreased	BRCA																	https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORD112	Increased	APL																	https://pubmed.ncbi.nlm.nih.gov/22522792/
+	SNORD113	Increased	APL																	https://pubmed.ncbi.nlm.nih.gov/22522792/
+	SNORD113-1/14q(I-1)	Decreased/Increased	HCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4169825/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD113-5	Increased	LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235744/
+	SNORD113-7	Increased	LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235744/
+	SNORD113-9		BLCA																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7350589/
+	SNORD114	Decreased/Increased	DIPG, APL																	https://link.springer.com/article/10.1007/s12094-020-02443-2 https://pubmed.ncbi.nlm.nih.gov/22522792/
+	SNORD114-1/14q(II-1)	Increased	APL, ccRCC, BLCA																	https://pubmed.ncbi.nlm.nih.gov/22522792/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7011154/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7350589/
+	SNORD114-10/14q(II-10)	Decreased	OC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769367/
+	SNORD114-11	Decreased	OC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD114-17	Increased	HNSCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD114-2	Decreased	OC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD114-20	Increased	LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235744/
+	SNORD114-21	Increased	LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235744/
+	SNORD114-23	Increased	LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235744/
+	SNORD114-25	Increased	LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235744/
+	SNORD114-26	Increased	LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235744/
+	SNORD114-28	Increased	LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235744/
+	SNORD115/HBII-52	Increased/Decreased	BRCA, PCa, DIPG																	https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub https://link.springer.com/article/10.1007/s12094-020-02443-2
+	SNORD115-10	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD115-11	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD115-12	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD115-12	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD115-13	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD115-23	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD115-24	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD115-25	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD115-32	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD115-4	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD115-4	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD115-44	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD115-45	Decreased	LGG																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8215672/
+	SNORD115-5	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD115-6	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD115-7	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD115-9	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD116	Decreased	DIPG																	https://link.springer.com/article/10.1007/s12094-020-02443-3
+	SNORD116/HBII-85	Decreased	PCa, DIPG																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4627319/ https://link.springer.com/article/10.1007/s12094-020-02443-2
+	SNORD116-1	Decreased	ccRCC, Sarcoma																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7541128/#cam43361-sup-0007
+	SNORD116-11	Increased	BCP																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD116-14	Increased	BCP																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD116-15	Increased	BCP																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD116-16	Increased	BCP																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD116-17	Increased	BCP																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD116-18	Increased	BCP, CLL																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD116-2	Decreased	ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/
+	SNORD116-20	Increased	BCP																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD116-21	Increased	BCP																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD116-22	Increased	BCP																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD116-23	Increased	BCP																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD116-24	Increased	BCP, ccRCC, HCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461500/
+	SNORD116-26	Decreased	ccRCC, LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/ https://pubmed.ncbi.nlm.nih.gov/31052265/
+	SNORD116-27	Increased	BCP, ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/
+	SNORD116-3	Decreased	HCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461500/
+	SNORD116-4	Decreased	ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/
+	SNORD117/U83	Decreased	PCa, ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4627319/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/
+	SNORD118/U8/LCC	Increased	BRCA, GC, NSCLC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5312328/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD12	Increased/Decreased	UM, BRCA																	https://pubmed.ncbi.nlm.nih.gov/30569172/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORD123	Increased	ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/
+	SNORD124	Increased	HCC, ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9524901/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/
+	SNORD126/MIR1201/MIRN1201	Increased	HCC, CRC																	https://pubmed.ncbi.nlm.nih.gov/27913571/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD12B	Increased/Decreased	ESCC, ccRCC, BRCA, GBM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORD12C	Increased/Decreased	CRC, BRCA																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7243338/ https://www.sciencedirect.com/science/article/pii/S0344033819330158?via%3Dihub
+	SNORD13P2	Increased	BCBM																	https://pubmed.ncbi.nlm.nih.gov/29287594/
+	SNORD14C		SCC, Larynx																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD14D	Increased	AML																	https://pubmed.ncbi.nlm.nih.gov/28650479/
+	SNORD14E		CRC																	https://www.sciencedirect.com/science/article/pii/S0344033819330158?via%3Dihub
+	SNORD15A/U15A	Increased	BCBM																	https://pubmed.ncbi.nlm.nih.gov/29287594/
+	SNORD15B/RNU15B/U15B	Increased	MM, ccRCC, BRCA																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORD16	Increased	CC, Multiple*																	https://pubmed.ncbi.nlm.nih.gov/29141226/ https://pubmed.ncbi.nlm.nih.gov/32704240/
+	SNORD17	Increased/Decreased	HCC, ccRCC, BRCA, CC, CRC																	https://pubmed.ncbi.nlm.nih.gov/35034103/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8615616/ https://www.sciencedirect.com/science/article/pii/S0344033819330158?via%3Dihub
+	SNORD18A	Decreased	NSCLC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461500/
+	SNORD19		Sarcoma																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7541128/#cam43361-sup-0007
+	SNORD19.2	Increased	CRC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD19B		HCC, BLCA																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7350589/
+	SNORD1A	Decreased/Increased	CLL, BRCA																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORD1B	Increased/Decreased	BRCA, NSCLC																	https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihubb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461500/
+	SNORD1C/snR38C  	Increased	CRC, BRCA																	https://pubmed.ncbi.nlm.nih.gov/35422067/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORD2	Decreased	LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7140444/
+	SNORD20	Increased	GBC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8699045/
+	SNORD22	Increased	BRCA																	https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORD24/RNU24/U24	Decreased	ACC																	https://pubmed.ncbi.nlm.nih.gov/27753032/
+	SNORD25	Increased	BRCA																	https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORD28	Increased	BRCA, NSCLC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/ https://pubmed.ncbi.nlm.nih.gov/31052265/
+	SNORD29/U29/RNU29	Increased	BRCA, NSCLC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3832415/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461500/
+	SNORD31	Increased	BRCA, HCC																	https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub https://pubmed.ncbi.nlm.nih.gov/32697317/
+	SNORD32A/U32A/RNU32	Increased	MM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD33/U33/RNU33	Increase	BRCA, NSCLC, ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3832415/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235744/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7011154/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub https://pubmed.ncbi.nlm.nih.gov/31052265/
+	SNORD33/U33/RNU33	Decreased	CRC, NSCLC																	https://pubmed.ncbi.nlm.nih.gov/28110922/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD34/U34/RNU34	Increased	BRCA, BCBM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3832415/ https://pubmed.ncbi.nlm.nih.gov/29287594/
+	SNORD35A/RNU35/RNU35A/U35	Increased	AML, BCBM																	https://pubmed.ncbi.nlm.nih.gov/28650479/ https://pubmed.ncbi.nlm.nih.gov/29287594/
+	SNORD35B/RNU35B/U35B	Decreased/Increased	HNSCC, BCP-ALL																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4436665/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9500313/ https://pubmed.ncbi.nlm.nih.gov/29287594/
+	SNORD36C		HCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD37/RNU37/U37	Increased	CLL																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD38A	Increased/Decreased	COC, LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8615616/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7140444/
+	SNORD38B	Increased	BRCA, GBC																	https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8699045/
+	SNORD3A	Increased/Decreased	HCC, CACX, LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461500/ https://www.sciencedirect.com/science/article/pii/S0888754318306682?via%3Dihub https://pubmed.ncbi.nlm.nih.gov/25159866/ https://www.sciencedirect.com/science/article/pii/S0888754318306682?via%3Dihub
+	SNORD3A/U3	Increased	BRCA, LUAD, Sarcoma, BLCA																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5312328/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7541128/#cam43361-sup-0007 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7350589/ https://www.aimspress.com/article/10.3934/mbe.2021389
+	SNORD3C	Decreased	HCC, CACX																	https://www.sciencedirect.com/science/article/pii/S0888754318306682?via%3Dihub https://www.sciencedirect.com/science/article/pii/S0888754318306682?via%3Dihub
+	SNORD3D	Decreased	HCC, CACX																	https://www.sciencedirect.com/science/article/pii/S0888754318306682?via%3Dihub https://www.sciencedirect.com/science/article/pii/S0888754318306682?via%3Dihub
+	SNORD41	Increased	BCBM																	https://pubmed.ncbi.nlm.nih.gov/29287594/
+	SNORD42	Increased	LC																	https://pubmed.ncbi.nlm.nih.gov/31052265/
+	SNORD42A	Increased	Leukemia																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD43/RNU43/U43	Increased	AML																	https://pubmed.ncbi.nlm.nih.gov/28650479/
+	SNORD43/U43/RNU43	Decreased	BRCA, CLL																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3068486/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6957689/
+	SNORD44/U44/RNU44	Decreased	BRCA, HCC, GBM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3068486/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8526181/
+	SNORD46/U46/U40/RNU40/RNU46	Increased 	BCP-ALL, BRCA, LC, Sarcoma, Multiple*																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9500313/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/ https://pubmed.ncbi.nlm.nih.gov/31052265/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7541128/#cam43361-sup-0007
+	SNORD47/RNU47/U47	Decreased/Increased	GBM																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5546453/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8526181/
+	SNORD48/U48/RNU48	Decreased	BRCA, NSCLC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3068486/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3832415/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461500/
+	SNORD49A/U49A		BLCA																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7350589/
+	SNORD50/SNORD50A/U50/RNU50	Decreased	BRCA, PCa, CRC, Multiple*																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2923223/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2854654/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5324971/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD50B/U50B  	Decreased	CLL, BRCA, Multiple*																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORD50D	Decreased	NSCLC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461500/
+	SNORD52	Increased	HCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9454744/
+	SNORD53	Increased	BCBM																	https://pubmed.ncbi.nlm.nih.gov/29287594/
+	SNORD55	Increased	NSCLC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7919130/
+	SNORD56	Decreased	CLL																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD57	Increased	CRC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7962485/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7962485/
+	SNORD58B	Decreased	LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7140444/
+	SNORD59A/U59/RNU59	Decreased	PCa																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4627319/
+	SNORD59B	Decreased	NSCLC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461500/
+	SNORD60	Increased	LUAD, ccRCC																	https://pubmed.ncbi.nlm.nih.gov/35711521/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/
+	SNORD62B		Sarcoma																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7541128/#cam43361-sup-0007
+	SNORD63	Increased/Decreased	HCC, ccRCC, BRCA																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9454744/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9524901/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORD64/HBII-13	Increased	BCP																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9219770/
+	SNORD65	Increased	HCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461500/
+	SNORD66/HBII-142	Increased	NSCLC, ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8980040/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7011154/
+	SNORD67/HBII-166	Increased	BRCA, CRC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3832415/ https://www.sciencedirect.com/science/article/pii/S0344033819330158?via%3Dihub https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORD7	Decreased	NSCLC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461500/
+	SNORD71/HBII-239	Increased/Decreased	PTCL, BRCA																	https://ashpublications.org/blood/article/120/19/3997/30664/Small-nucleolar-RNA-expression-profiling https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORD72	Increased	HCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD73A	Decreased	LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7140444/
+	SNORD73B	Decreased	NSCLC, LGG																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8215672/
+	SNORD74/U74/Z18	Increased	AML																	https://pubmed.ncbi.nlm.nih.gov/28650479/
+	SNORD75	Increased/Decreased	GBC, LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8699045/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7140444/
+	SNORD76/U76	Increased/Decreased	HCC, GBM, NSCLC, ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5390076/ https://pubmed.ncbi.nlm.nih.gov/28578939/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7011154/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD77	Increased	CRC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD78	Increased	NSCLC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7140444/
+	SNORD78/U78	Increased	NSCLC, PCa, HNSCC, CRC, ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4472183/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7011154/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7243338/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD81	Decreased	LC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7140444/
+	SNORD82/RNU82/U82/Z25	Decreased	PCa																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4627319/
+	SNORD83A/RNU83A/U83A	Increased	NSCLC																	https://pubmed.ncbi.nlm.nih.gov/34842456/
+	SNORD86	Increased	CRC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/
+	SNORD87/HBII-276	Increased	CRC, UM																	https://pubmed.ncbi.nlm.nih.gov/30626446/ https://pubmed.ncbi.nlm.nih.gov/30662328/ https://pubmed.ncbi.nlm.nih.gov/30569172/
+	SNORD89	Increased/Decreased	EC, OC, BRCA, PCa																	https://pubmed.ncbi.nlm.nih.gov/35790714/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8677010/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub https://pubmed.ncbi.nlm.nih.gov/31395064/ https://www.sciencedirect.com/science/article/pii/S1040842820303462?via%3Dihub
+	SNORD9	Increased 	Multiple*																	https://pubmed.ncbi.nlm.nih.gov/29141226/
+	SNORD91A	Increased	LGG																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8215672/
+	SNORD91B	Increased	HCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461500/
+	SNORD92/HBII-316	Increased 	GC																	https://pubmed.ncbi.nlm.nih.gov/31552164/
+	SNORD93	Increased	ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/
+	SNORD94/U94	Increased	OS, BRCA																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695086/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	SNORD96A	Increased	ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/
+	SNORD97	Increased/Decreased	BRCA, CC, HCC, CACX																	https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8615616/ https://www.sciencedirect.com/science/article/pii/S0888754318306682?via%3Dihub https://www.sciencedirect.com/science/article/pii/S0888754318306682?via%3Dihub
+	SNORD98/HBII-419	Increased	LC																	https://pubmed.ncbi.nlm.nih.gov/31052265/
+	SNORD99	Increased	ccRCC, BRCA																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/ https://www.sciencedirect.com/science/article/pii/S0304419X20302201?via%3Dihub
+	snoU2_19	Increased	HCC																	https://www.sciencedirect.com/science/article/pii/S0006291X1830843X?via%3Dihub
+	snoZ196	Increased	ccRCC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8658237/
+	TIIsno	Decreased	CC																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8844792/
+	U50A	Increased	BRCA																	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8699759/
